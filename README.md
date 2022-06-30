@@ -8,3 +8,8 @@
 
 
 python amend.py -p protein.fasta -a cds.fasta -o out
+
+
+
+
+示例文件仅作格式说明
